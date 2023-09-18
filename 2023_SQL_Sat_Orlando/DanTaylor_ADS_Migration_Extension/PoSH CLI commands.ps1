@@ -1,4 +1,15 @@
-﻿#az Login
+/*============================================================
+// Source via Baniel Taylor :: datay@micrsoft.com
+// MIT License
+// Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+// The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
+// THE SOFTWARE IS PROVIDED *AS IS*, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY
+// Original source : https://learn.microsoft.com/en-us/azure/dms/migration-dms-powershell-cli
+// Edits include adding information where to place your environmental specific variables 
+//Built varibales for Subscription ID and Storage Account access keys so that they are not passed in clear text
+==============================================================*/
+ 
+ #az Login
 #Azure CLI commands used during CLI portion of the demos
 
 #Assessment
